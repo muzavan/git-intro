@@ -1,6 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello, World!
 woi, oi
 =======
 Hello, My name is Helmi!
 >>>>>>> 795351251f8edeeb2a96e6087314859037c023cd
+=======
+Hello, World!
+hai
+Hello, My name is Helmi!
+And I'm your father
+:)
+>>>>>>> d0b4d124d3fd4bd0dda0522ffb3a07334600dccc
+hayhay
