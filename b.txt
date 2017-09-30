@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 b for bravo 
+=======
+wildan bungul banar
+>>>>>>> feature/SingaEdan
