@@ -1,7 +1,14 @@
 Hello, World!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hai
 =======
 Hello from the other side
 Uhuy
 >>>>>>> 93a124e6749b89bba54b81bdd72fc9a6720f254a
+=======
+hai
+Hello, My name is Helmi!
+And I'm your father
+:)
+>>>>>>> d0b4d124d3fd4bd0dda0522ffb3a07334600dccc
