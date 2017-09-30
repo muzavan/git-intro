@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello, World! HI
 
 Hello Code
+=======
+Hello, My name is Helmi!
+>>>>>>> 72ed7eb75dee161993974707607b48247536fbc8
+
+//////////////////INYE/////////////////////////
