@@ -1,2 +1,7 @@
 Hello, World!
+<<<<<<< HEAD
 Hai juga
+=======
+Hello from the other side
+Uhuy
+>>>>>>> 93a124e6749b89bba54b81bdd72fc9a6720f254a
