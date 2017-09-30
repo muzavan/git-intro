@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello, World!
 <<<<<<< HEAD
 Hai juga
@@ -5,3 +6,6 @@ Hai juga
 Hello from the other side
 Uhuy
 >>>>>>> 93a124e6749b89bba54b81bdd72fc9a6720f254a
+=======
+Hello, My name is Helmi!
+>>>>>>> 795351251f8edeeb2a96e6087314859037c023cd
