@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello, World!
 <<<<<<< HEAD
 Hai juga
@@ -10,6 +11,13 @@ Uhuy
 =======
 Hello, My name is Helmi!
 >>>>>>> 795351251f8edeeb2a96e6087314859037c023cd
+=======
+=======
+Hello, World!
+it's me !
+=======
+Hello, My name is Helmi!
+>>>>>>> f6f29f6133a3f423c15429aaacb5389735eef9d5
 =======
 Hello, World!
 hai
