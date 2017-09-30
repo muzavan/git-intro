@@ -1,6 +1,11 @@
-<<<<<<< HEAD
+=======
 Hello, World!
 it's me !
 =======
 Hello, My name is Helmi!
->>>>>>> 795351251f8edeeb2a96e6087314859037c023cd
+=======
+Hello, World!
+hai
+Hello, My name is Helmi!
+And I'm your father
+:)
