@@ -1,3 +1,10 @@
 Hello, World!
+<<<<<<< HEAD
 nama saya mirah
 blah blah blah
+=======
+hai
+Hello, My name is Helmi!
+And I'm your father
+:)
+>>>>>>> d0b4d124d3fd4bd0dda0522ffb3a07334600dccc
